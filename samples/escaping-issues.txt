@@ -1,0 +1,2 @@
+[{'inner_quote': 'He said, "It\'s a fine day for coding!"'},{'path': 'C:\\Users\\Username\\Documents\\File.txt', 'regex': '^\\d{3}-\\d{2}-\\d{4}$'}
+]

@@ -1,0 +1,2 @@
+[{'test_types':'extended','children':[{'type': 'double quote','val': "value"},
+{'type': 'special chars','val':'%special&chars*"\'}]}]

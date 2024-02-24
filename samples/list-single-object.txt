@@ -1,0 +1,2 @@
+[{'test_types':'standard','children':[{'type':'integer','val':503400},{'type': 'boolean','val':True},
+{'type' :'none type','val' :None},{'type' : 'float', 'val':10.6},{'type':'string', 'val' : 'random string'}]}]
