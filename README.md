@@ -1,9 +1,9 @@
 # python-pretty-data-structures README
 
 Tool to prettify a python data structure:
-- [ ] list of objects
-- [ ] object
-- [ ] touple
+- [x] list of objects
+- [x] object
+- [x] touple
 
 ## Features
 
@@ -24,7 +24,10 @@ Intended:
 - [ ] settings:
     - [x] indentation setting
     - [x] convert to json
-    - [ ] max line depth
+    - [ ] max line depth - no need for this
+ - [x] use custom parser in python
+   - [ ] run with `cat samples/touple.txt | python src/parsers/parse_to_ast.py --indent=4`
+ - [ ] connect with TS and test in UI
 
 #### Nice do have:
 - [ ] work on a selection inside a python file

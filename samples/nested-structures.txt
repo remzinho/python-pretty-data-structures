@@ -1,0 +1,8 @@
+{
+    'a': [1, 2, 3],
+    'b': {
+        'nested': [4, 5, {'deep': 'value'}],
+        'empty_list': [],
+        'empty_dict': {}
+    }
+}

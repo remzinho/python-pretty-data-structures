@@ -1,0 +1,9 @@
+[
+    'string',
+    123,
+    45.67,
+    True,
+    None,
+    {'a': 'b', 'c': [8, 9, {'d': 'e', 'f': False}]},
+    (10, 11, 12)  # Tuples will be represented as lists in JSON-like structures
+]

@@ -1,0 +1,7 @@
+[{
+    'string_with_braces': 'This {is} a string',
+    'string_with_brackets': 'This [is] a string',
+    'string_with_parentheses': 'This (is) a string',
+    'string_with_commas': 'This, is, a, string',
+    'escaped_characters': 'This is a newline:\\nAnd this is a tab:\\t'
+}]
